@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2696b0c1-463d-400c-a428-fd5aa3655e54" name="notes@ovh.e-dev.us" url="http://notes.e-dev.us">
+        <fileTransfer host="notes.e-dev.us" port="22" rootFolder="/home/notes/" accessType="SFTP" password="dfc4dfcbdfdedfc2dfcbdfc4df9adf9b" username="notes">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
